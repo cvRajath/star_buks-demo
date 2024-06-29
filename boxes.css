@@ -1,0 +1,105 @@
+.boxes{
+   margin-top: 100px;
+    height: 320px;
+    background: #edebe9;
+}
+
+.box-text{
+    display: flex;
+
+    margin: 15px 60px 0px 55px;
+    justify-content: space-between;
+    height: 50px;
+    
+    align-items: center;
+    padding: 10px;
+}
+
+.box{
+    width: 430px;
+    height: 160px;
+    background:rgb(255, 255, 255);
+    border-radius: 7px;
+}
+.box-controll{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 40px 0px 60px;
+}
+.b{
+ font-size:  25px;
+ font-family: SoDoSans_Bold, Helvetica, sans-serif !important;
+ font-weight: bold;
+ color:#1e3932;
+
+}
+.v{
+    color: #007542;
+    font-size: .8rem;
+
+}
+.box3{
+    width: 430px;
+    height: 160px;
+    background:rgb(255, 255, 255);
+    border-radius: 7px;
+    
+}
+.img-box3{
+width:85px;
+height: 80px;
+display: flex;
+margin-top: 15px;
+margin-left: 25px;
+border-radius: 10px; 
+}   
+
+.learn-box{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 60px 0px 55px;
+    height: 50px;
+    align-items: center;
+    padding: 10px;
+
+}
+.learn-main{
+    background-color: rgb(54, 22, 22);
+    height: 387px;
+    padding: 110px 0px 0px 0px;
+    margin-top: 40px;
+}
+.learn-containe{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 40px 0px 60px;
+}
+.l{
+    color: aliceblue;
+    padding: 0px 0px 950px 0px;
+}
+.d{
+    color: rgb(255, 255, 255);
+  margin-bottom:950px;
+}
+.img-container{
+    height: 350px;
+    width: 1320px;
+   margin-left: 100px;
+    display: flex;
+    background: red;
+    background: url(icons/ICW_Live_Event_Day5_41f11ca3d2.jpg);
+  
+ 
+    -moz-box-shadow: rgba(0, 0, 0, 0.8) 30px 30px 100px inset;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.8) 3px 3px 10px inset;
+    box-shadow: rgba(0, 0, 0, 0.8) 30px 30px 30px inset;
+}
+.img-coffe:hover{
+    
+
+
+
+
+}
